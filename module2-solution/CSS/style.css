@@ -12,7 +12,7 @@ body{
 	background-size: cover;
 	font-family: sans-serif;
 	font-weight: bold;
-	font-size: 24px;
+    font-size: 30px;
 }
 div.section {
 	border: 1px solid black;
@@ -32,7 +32,8 @@ div.section {
 	margin-top: 0;
 }
 .description {
-	padding: 50px 10px 10px 10px;
+	padding: 60px 10px 10px 10px;
+	font-size: 16px;
 }
 #Pizza {
 	background-color: #DC143C;
